@@ -1,0 +1,15 @@
+.car{    
+     background-color: rgb(54, 196, 231);   
+       border-radius: 5%;     width: 49vw;   
+         height: 80vh;     display: flex;   
+           flex-wrap: wrap;   
+             align-content: space-around;  
+                align-items: center;  
+                   justify-content: space-evenly;     
+                             img{     width: 10vw;              } 
+                         margin: 20px;   
+                            
+                               }
+ .planeta{    
+     border: 5px 5px 5px 5px black;   
+       }
